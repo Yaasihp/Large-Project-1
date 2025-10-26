@@ -20,3 +20,13 @@ This project focuses on building a distributed data processing system using Apac
 - 💾 Limited RAM — The virtual machines had low memory capacity, which increased the execution time for most Spark and Hadoop commands.
 - 🌐 Network Configuration Issues — Setting up the cluster network was challenging, and an Amazon Network shutdown temporarily disrupted connectivity between nodes.
 - 🐧 Fedora Navigation Difficulties — Navigating and configuring system files in Fedora required additional learning, especially during environment setup and SSH configuration.
+## Carry-on Lessons
+- 🧩 Acquired practical experience in configuring and managing Apache Hadoop and Apache Spark clusters within a Fedora Linux environment.
+- 🔑 Gained proficiency in setting up secure, passwordless SSH communication to facilitate seamless interaction between master and worker nodes.
+- 💾 Recognized the impact of hardware limitations, particularly limited RAM, on the performance and efficiency of distributed systems.
+- 🧰 Enhanced skills in network configuration, troubleshooting, and system integration within a clustered architecture.
+- 💻 Strengthened command-line and system administration expertise, improving confidence in Linux-based operations.
+- 🚀 Developed advanced problem-solving and debugging abilities through practical deployment and testing challenges.
+- 🌐 Deepened understanding of distributed computing principles and their application to scalable data processing.
+- 🧮 Appreciated the importance of resource planning and optimization for stable and efficient system performance.
+- 🔓 Built confidence in leveraging open-source big data tools for research and healthcare data analytics applications.
