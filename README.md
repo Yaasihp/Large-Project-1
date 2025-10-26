@@ -1,4 +1,4 @@
-# Large-Project-1
+# Big Data Preprocessing of Myocardial Infarction Dataset using Spark-Hadoop Cluster
 ## Project Overview
 This project focuses on building a distributed data processing system using Apache Hadoop and Apache Spark on Fedora virtual machines. It configures hadoop1 as the master node and hadoop2 (Or as many that the user can add) as worker nodes to process the UCI Myocardial Infarction dataset efficiently. By combining Hadoop’s distributed storage and Spark’s parallel computation, the project enables scalable preprocessing and analysis of healthcare data to support predictive modeling and clinical decision-making
 ## Project Ojectives and Activities
