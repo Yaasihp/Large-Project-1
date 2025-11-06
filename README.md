@@ -30,3 +30,12 @@ This project focuses on building a distributed data processing system using Apac
 - 🌐 Deepened understanding of distributed computing principles and their application to scalable data processing.
 - 🧮 Appreciated the importance of resource planning and optimization for stable and efficient system performance.
 - 🔓 Built confidence in leveraging open-source big data tools for research and healthcare data analytics applications.
+## Project Contributors
+- Yaasi Hashem Pour
+- Lusubilo Nyondo
+- Peter Mvuma
+- Mohammed Abdulai
+- Kudakwashe Mukumbi
+
+
+  
